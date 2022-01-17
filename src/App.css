@@ -1,0 +1,36 @@
+.app-container{
+  width: 100%;
+}
+
+.c1{
+  color: rgb(34, 40, 49);
+}
+
+.c2{
+  color: rgb(57, 62, 70);
+}
+
+.c3{
+  color: rgb(0, 173, 181);
+}
+
+.c4{
+  color: rgb(238, 238, 238);
+}
+
+.bg-c1{
+  background-color: rgb(34, 40, 49);
+
+}
+.bg-c2{
+  background-color: rgb(57, 62, 70);
+
+}
+.bg-c3{
+  background-color: rgb(0, 173, 181);
+
+}
+.bg-c4{
+  background-color: rgb(238, 238, 238);
+
+}
